@@ -8,3 +8,16 @@ vless://f4d4b43f-8953-4226-b6b3-7de219d5fed7@vip.warzonmobile.xyz:8081?path=%2Fw
 vless://f4d4b43f-8953-4226-b6b3-7de219d5fed7@vip.warzonmobile.xyz:8081?path=%2Fws&security=none&encryption=none&type=ws#BaradVPN
 vless://f4d4b43f-8953-4226-b6b3-7de219d5fed7@vip.warzonmobile.xyz:8081?path=%2Fws&security=none&encryption=none&type=ws#Barad%20VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#BaradVPN
+vless://1081dd23-a89d-4ba9-a186-ec82ed455946@s9.arwandping.top:8080?path=%2F&security=none&encryption=none&type=ws#BaradVPN
+vless://790944f0-ad46-4e98-abcf-1f4d6d28bea5@45.156.185.159:3131?security=none&encryption=none&headerType=none&type=tcp#BaradVPN
+vless://790944f0-ad46-4e98-abcf-1f4d6d28bea5@45.156.185.159:3131?security=none&encryption=none&headerType=none&type=tcp#BaradVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTE5YTQ0MjI3NzMwNWRi@37.59.24.117:10018#BaradVPN
+vless://ad6ae351-8306-4fa3-a2e4-2d7c4f954a30@193.160.209.95:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#BaradVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#BaradVPN
+vless://9a892f9a-f193-4186-849f-fb9e87dbf767@45.77.215.42:42955?security=none&encryption=none&headerType=none&type=tcp#BaradVPN
+vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=%2FeyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#BaradNet
+vless://ce9a9ca9-dd19-4329-9de8-bf6b6cf1d464@85.133.161.168:8080?path=%2Fv1%2Fstream%2Ftrk&security=none&encryption=none&host=anten.ir&type=ws#BaradNet
+vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.97.57:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#BVPN
+vless://98f17a5c-49f0-42fe-b58e-9a01604dbf2d@de-2.healingfluence.com:443?security=reality&encryption=none&pbk=3D9M2imY2OVn9hTFmMAjH6FrgKBHrliElGwQ8w0AMXc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=9cc8#BVPN
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.95:8880?mode=gun&security=none&encryption=none&type=grpc#BaradVPN
+vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.28.151:4248?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#BVPN
