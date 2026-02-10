@@ -53,6 +53,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8
 vless://FakePlaceholder@fake.placeholder.iwg.co.uk:81?security=&encryption=YesBro&type=httpupgrade&flow=xtls-rprx-vision#%D8%AD%D8%AC%D9%85%20%D8%A8%D8%A7%D9%82%DB%8C%D9%85%D8%A7%D9%86%D8%AF%D9%87%20500GB
 
 
+vless://b16a3d5d-baac-4cd3-a770-edc4d992f55e@151.101.25.242:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AABMCI
+vless://b16a3d5d-baac-4cd3-a770-edc4d992f55e@151.101.25.242:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=mohsenchavoshi.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AABaradMCI
+vless://b16a3d5d-baac-4cd3-a770-edc4d992f55e@140.248.159.164:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8BaradUS%F0%9F%8C%8E
+vless://b16a3d5d-baac-4cd3-a770-edc4d992f55e@pizzakakhi.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pizzakakhi.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=pizzakakhi.global.ssl.fastly.net#%F0%9F%A4%8DBaradMCI%F0%9F%A4%8D
+vless://b16a3d5d-baac-4cd3-a770-edc4d992f55e@atawich.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=atawich.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=atawich.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AABaradMCI%F0%9F%87%A9%F0%9F%87%AA
+vless://b16a3d5d-baac-4cd3-a770-edc4d992f55e@104.21.55.47:2053?path=%2Flatest%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=vw.badomzamini.uk&type=ws&allowInsecure=0&sni=vw.badomzamini.uk#%F0%9F%87%AB%F0%9F%87%AEBaradFin%F0%9F%87%AB%F0%9F%87%AE
+vless://b16a3d5d-baac-4cd3-a770-edc4d992f55e@ra.faraz360.ir:9850?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1BaradNet%F0%9F%87%B3%F0%9F%87%B1
 
 
 
