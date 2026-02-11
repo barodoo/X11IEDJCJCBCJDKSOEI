@@ -1,3 +1,16 @@
+vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=frns-2.certhost.ir&type=ws&allowInsecure=0&sni=frns-2.certhost.ir#%F0%9F%92%AB%20MCI%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20BaradVPN
+vless://715a6015-7a63-4e6d-98a8-47d948aa4c88@65.108.86.186:53717?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%AABaradVPN%E2%9A%AA
+vless://d035704c-fe9c-4ed8-8106-effd398a7e87@91.107.249.108:49749?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%A9%B5BaradVPN%F0%9F%A9%B5
+vless://715a6015-7a63-4e6d-98a8-47d948aa4c88@65.108.86.186:53717?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B5%EF%B8%8FBaradNet%F0%9F%8F%B5%EF%B8%8F
+vless://715a6015-7a63-4e6d-98a8-47d948aa4c88@65.108.86.186:53717?security=none&encryption=none&headerType=none&type=tcp#%7C%20%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88%20%7C%20MCI%20%7C%20BaradVPN
+vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=itns-2.blackpapers.ir&type=ws&allowInsecure=0&sni=itns-2.blackpapers.ir#%E2%99%A6%EF%B8%8FBaradVPN%E2%99%A6%EF%B8%8F
+vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=sens-2.certhost.ir&type=ws&allowInsecure=0&sni=sens-2.certhost.ir#%F0%9F%92%AB%20MCI%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20BaradMCI
+vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-frns.certhost.ir&type=ws#%F0%9F%92%AB%20MCI%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20BaradVPN
+vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-itns.blackpapers.ir&type=ws#%F0%9F%92%AB%20MCI%20%7C%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20BaradVPN
+vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-enns.kiwijuice.ir&type=ws#%F0%9F%92%AB%20MCI%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20BaradVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTQzMyWXJFbFBqUXhudkE1UVlHZ1pR@62.133.63.21:1080#%F0%9F%87%B9%F0%9F%87%B7BMCI
+vmess://eyJhZGQiOiIxOTQuMjkuNzkuMTcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ5Y2Y0YzFkLTA4N2QtNGJlNi1hZGI3LTJmNjkzOTIxNDIwMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDA1NTMiLCJwcyI6IvCfkprwn5+p8J+fokJhcmFkTUNJ8J+UtfCfn6bwn5KZIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
 vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=%2Fcategory%2Fmusic&security=&encryption=none&host=iran.boltboost.gg&type=xhttp#United%20States%F0%9F%87%BA%F0%9F%87%B8
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=binaryboots.algorithmblanket.click#New%20Zealand%F0%9F%87%B3%F0%9F%87%BF
 vless://abcd1234@2.2.2.2:2222?security=&encryption=none&headerType=none&type=tcp#BaradNet
