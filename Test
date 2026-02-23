@@ -1,3 +1,15 @@
+vless://d55c9707-8410-455e-843b-839ac869584d@94.183.162.80:9860?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#BaradVPN
+vless://d55c9707-8410-455e-843b-839ac869584d@abc-shalvar.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=abc-shalvar.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=abc-shalvar.global.ssl.fastly.net#BaradVPN
+vless://d55c9707-8410-455e-843b-839ac869584d@kirtochinkirtochin.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=kirtochinkirtochin.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=kirtochinkirtochin.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AAFL-Germany-2
+vless://d55c9707-8410-455e-843b-839ac869584d@a28.aseman101.ir:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#BaradVPN
+vless://d55c9707-8410-455e-843b-839ac869584d@dir4.serviceali.ir:2053?path=%2Fiy8sy873232g3257sd37tsdo8w&security=tls&encryption=none&insecure=0&host=sub.fandaktabdar.com&type=ws&allowInsecure=0&sni=sub.fandaktabdar.com#BaradVPN
+vless://d55c9707-8410-455e-843b-839ac869584d@dir4.serviceali.ir:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=sub.fandaktabdar.com&type=xhttp&allowInsecure=0&sni=sub.fandaktabdar.com#BaradVPN
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#%F0%9F%87%A9%F0%9F%87%AABarad
+vless://9528078a-6ff0-403e-bc87-eb898c774a87@162.159.152.225:2087?path=%2F&security=tls&encryption=none&insecure=0&host=aza002.vaslbash.site&fp=chrome&type=ws&allowInsecure=0&sni=aza002.vaslbash.site#%F0%9F%87%AB%F0%9F%87%AEBaradDNS
+vless://d55c9707-8410-455e-843b-839ac869584d@140.248.171.91:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=merhaba-dubai.global.ssl.fastly.net&type=ws#BaradVPN
+vless://d55c9707-8410-455e-843b-839ac869584d@140.248.159.164:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=khasteshodam.global.ssl.fastly.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20BaradUS
+
+
 vless://d55c9707-8410-455e-843b-839ac869584d@dir4.serviceali.ir:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=sub.fandaktabdar.com&type=xhttp&allowInsecure=0&sni=sub.fandaktabdar.com#BaradVPN
 vless://d55c9707-8410-455e-843b-839ac869584d@dir4.serviceali.ir:2053?path=%2Fiy8sy873232g3257sd37tsdo8w&security=tls&encryption=none&insecure=0&host=sub.fandaktabdar.com&type=ws&allowInsecure=0&sni=sub.fandaktabdar.com#BaradVPN
 vless://d55c9707-8410-455e-843b-839ac869584d@94.183.162.80:9860?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#BaradVPN
