@@ -98,3 +98,7 @@ trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&ho
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.153.7.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#%F0%9F%94%A5LunarVPN%20REZA
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.75.199.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#%F0%9F%94%A5LunarVPN%20REZA
 vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?security=&encryption=none&type=ws#%F0%9F%94%A5LunarVPN%20REZA
+vless://adcce7c9-005c-4fff-b8db-2e3e46c3b484@c1.jexp.ir:2053?mode=packet-up&path=%2Famirxhttp&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=tr1.amozeshavaz.ir&fp=chrome&type=xhttp&sni=tr1.amozeshavaz.ir#%F0%9F%94%A5%F0%9F%92%9BLunarVPN%20%28IRANCELL%29
+vless://adcce7c9-005c-4fff-b8db-2e3e46c3b484@ar2.00cloud.ir:443?mode=packet-up&path=%2Famirxhttp&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de5.jexp.ir&fp=chrome&type=xhttp&sni=de5.jexp.ir#%F0%9F%94%A5%F0%9F%92%9BLunarVPN%20%28IRANCELL%29
+vless://adcce7c9-005c-4fff-b8db-2e3e46c3b484@mtn5.jexp.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%94%A5%F0%9F%92%9BLunarVPN%20%28IRANCELL%29
+vless://adcce7c9-005c-4fff-b8db-2e3e46c3b484@mtn2.00cloud.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%94%A5%F0%9F%92%9BLunarVPN%20%28IRANCELL%29
